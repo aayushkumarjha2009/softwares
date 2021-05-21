@@ -1,0 +1,3 @@
+function modal(){
+    document.write('<div class="modal fade" id="myModal" role="dialog"><div class="modal-dialog"><!-- Modal content--><div class="modal-content"><div class="modal-header" id="modal-header" style="padding: 35px 50px"><h4><span class="glyphicon glyphicon-lock"></span>Website</h4><button type="button" style="outline: none" class="close" data-dismiss="modal">&times;</button></div><div class="modal-body" id="message_sent" style="padding: 40px 50px"><h5>Get softwares here</h5></div><div class="modal-footer"><button type="submit"class="btn btn-danger btn-default pull-left"data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span> OKay</button></div></div></div></div>')
+}

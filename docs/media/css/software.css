@@ -1,0 +1,8 @@
+@import url(select.css);
+.cat .list-group, .hello{
+    /* max-height: 700px; */
+    /* overflow-y: auto; */
+    /* overflow-x: hidden; */
+    margin-bottom: 20px;
+    margin: 20px;
+}

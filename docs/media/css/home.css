@@ -1,0 +1,32 @@
+::selection {
+    background-color: #3776ab;
+    color: white;
+    text-shadow: none;
+}
+
+.folder-group img {
+    width: 100px;
+}
+
+.folder-group li {
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    max-width: 140px;
+}
+.folder-group .row {
+    justify-content: center;
+}
+nav {
+    box-shadow: 0.01px 0.01px 5px black;
+}
+
+
+footer li a {
+    color: white;
+}
+    
+footer li a:hover {
+    color: grey;
+}
